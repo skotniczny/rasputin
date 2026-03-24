@@ -1,3 +1,9 @@
+rasputin (1.6) trixie; urgency=medium
+
+  * Fix formatting of switch
+
+ -- Simon Long <simon@raspberrypi.com>  Tue, 24 Mar 2026 15:02:24 +0000
+
 rasputin (1.5) trixie; urgency=medium
 
   * Use notify::active instead of state-set
