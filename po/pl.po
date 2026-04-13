@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: lxinput\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-04-13 20:06+0200\n"
-"PO-Revision-Date: 2014-12-05 08:27+0000\n"
+"PO-Revision-Date: 2026-04-13 20:29+0200\n"
 "Last-Translator: Skotniczny <skotniczny@outlook.com>\n"
 "Language-Team: Polish <>\n"
 "Language: pl\n"
@@ -18,17 +18,13 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
-"X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1417768022.000000\n"
 
 #: ../src/rasputin.c:266
-#, fuzzy
 msgctxt "tab"
 msgid "Mouse"
 msgstr "Mysz"
 
 #: ../src/rasputin.c:267
-#, fuzzy
 msgctxt "tab"
 msgid "Keyboard"
 msgstr "Klawiatura"
@@ -37,7 +33,7 @@ msgstr "Klawiatura"
 #. ============================================================================
 #: ../data/rasputin.ui.h:1
 msgid "Mouse and Keyboard Settings"
-msgstr ""
+msgstr "Ustawienia myszy i klawiatury"
 
 #: ../data/rasputin.ui.h:2
 msgid "Acceleration:"
@@ -49,7 +45,7 @@ msgstr "Małe"
 
 #: ../data/rasputin.ui.h:4
 msgid "Set the motion speed of the mouse"
-msgstr ""
+msgstr "Ustaw prędkość ruchu myszy"
 
 #: ../data/rasputin.ui.h:5
 msgid "Fast"
@@ -57,36 +53,35 @@ msgstr "Duże"
 
 #: ../data/rasputin.ui.h:6
 msgid "Delay:"
-msgstr ""
+msgstr "Opóźnienie:"
 
 #: ../data/rasputin.ui.h:7
 msgid "Short"
-msgstr "Krótki"
+msgstr "Krótkie"
 
 #: ../data/rasputin.ui.h:8
 msgid "Set the maximum delay between clicks to generate a double-click"
-msgstr ""
+msgstr "Ustaw maksymalne opóźnienie między kliknięciami dla podwójnego kliknięcia"
 
 #: ../data/rasputin.ui.h:9
 msgid "Long"
-msgstr "Długi"
+msgstr "Długie"
 
 #: ../data/rasputin.ui.h:10
 msgid "Click the square to test double-click speed"
-msgstr ""
+msgstr "Kliknij kwadrat, aby przetestować szybkość podwójnego kliknięcia"
 
 #: ../data/rasputin.ui.h:11
 msgid "Square flashes white when double-clicked"
-msgstr ""
+msgstr "Kwadrat miga na biało po podwójnym kliknięciu"
 
 #: ../data/rasputin.ui.h:12
 msgid "Left-handed:"
-msgstr ""
+msgstr "Leworęczność:"
 
 #: ../data/rasputin.ui.h:13
-#, fuzzy
 msgid "Swap left and right mouse buttons"
-msgstr "Zamienienie funkcji prawego i lewego przycisku myszy"
+msgstr "Zamień lewy i prawy przycisk myszy"
 
 #: ../data/rasputin.ui.h:14
 msgid "Mouse"
@@ -116,15 +111,15 @@ msgstr ""
 
 #: ../data/rasputin.ui.h:20
 msgid "Type here to test keyboard delay and interval"
-msgstr ""
+msgstr "Proszę wprowadzić tekst, aby przetestować opóźnienie i interwał klawiatury"
 
 #: ../data/rasputin.ui.h:21
 msgid "Layout:"
-msgstr ""
+msgstr "Układ:"
 
 #: ../data/rasputin.ui.h:22
 msgid "Set _Layout..."
-msgstr ""
+msgstr "Ustaw _układ…"
 
 #: ../data/rasputin.ui.h:23
 msgid "Keyboard"
@@ -132,7 +127,7 @@ msgstr "Klawiatura"
 
 #: ../data/rasputin.ui.h:24
 msgid "_Cancel"
-msgstr ""
+msgstr "_Anuluj"
 
 #: ../data/rasputin.ui.h:25
 msgid "_OK"
